@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP 1" group-title="DESPORTO",RTP 1
+http://offdown.hopto.org:27000/vrLFTdQeM1/FGoyHIWnF5/120
+#EXTINF:-1 tvg-id="SPORT TV 1" group-title="DESPORTO",SPORT TV 1
+http://offdown.hopto.org:27000/vrLFTdQeM1/FGoyHIWnF5/96
